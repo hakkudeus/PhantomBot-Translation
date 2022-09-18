@@ -2,6 +2,22 @@
 
 This is a PhantomBot unofficial localization project. It's based on my previous project "PhantomBot-RUS" which was abandoned and then being locked on my lost account (forked from it).
 
+## Content
+
+- **Progress**
+
+-   Current Progress
+
+-   Last version contains
+
+- **Languages**
+
+- 	Planned Languages
+
+- **Requirements**
+
+- **Download**
+
 ## Progress
 
 Original project had a 80% translated webpanel. Since then it had JS scripts, console and installator planned.
