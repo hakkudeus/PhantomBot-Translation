@@ -6,13 +6,13 @@ This is a PhantomBot unofficial localization project. It's based on my previous 
 
 - **Progress**
 
--   Current Progress
+-  -Current Progress
 
--   Last version contains
+-  -Last version contains
 
 - **Languages**
 
-- 	Planned Languages
+- -Planned Languages
 
 - **Requirements**
 
