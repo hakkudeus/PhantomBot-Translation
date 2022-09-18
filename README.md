@@ -1,6 +1,6 @@
 # PhantomBot-Translation
 
-![]([latest release: 14 April 2021 (shields.io)](https://img.shields.io/badge/latest%20release-14%20April%202021-red))
+![https://img.shields.io/badge/latest%20release-14%20April%202021-red]([latest release: 14 April 2021 (shields.io)](https://img.shields.io/badge/latest%20release-14%20April%202021-red))
 
 This is a PhantomBot unofficial localization project. It's based on my previous project "PhantomBot-RUS" which was abandoned and then being locked on my lost account (forked from it).
 
